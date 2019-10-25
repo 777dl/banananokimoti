@@ -175,13 +175,13 @@ nav {
 	background-size: cover;
 }
 #photo01 {
-	background-image: url("photo05.jpg");
+	background-image: url("./photo05.jpg");
 }
 #photo02 {
-	background-image: url("photo06.jpg");
+	background-image: url("./photo06.jpg");
 }
 #photo03 {
-	background-image: url("photo07.jpg");
+	background-image: url("./photo07.jpg");
 }
 .right {
 	float: right;
